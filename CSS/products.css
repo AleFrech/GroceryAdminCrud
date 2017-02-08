@@ -1,0 +1,30 @@
+.productbox {
+    background-color:#9999;
+    border: black 3px solid;
+	padding:10px;
+	margin: 0 10px 10px 0;
+	-webkit-box-shadow: 0 8px 6px -6px  #999;
+	   -moz-box-shadow: 0 8px 6px -6px  #999;
+	        box-shadow: 0 8px 6px -6px #999;
+}
+r
+.producttitle {
+    font-weight:bold;
+    font-size:1.4em;
+	padding:5px 0 5px 0;
+}
+
+.productprice {
+	border-top:1px solid #dadada;
+	padding-top:5px;
+}
+
+.pricetext {
+	font-weight:bold;
+	font-size:1.4em;
+}
+
+.image {
+    width: 200px;
+    height: 85px;
+}
